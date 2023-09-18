@@ -1,0 +1,25 @@
+go 1.19
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04conversion
+	./06mytime
+	./07mypointers
+	./08myarray
+	./09myslices
+	./10mymaps
+	./11mystructs
+	./14loops
+	./15functions
+	./16methods
+	./17defer
+	./18files
+	./19webrequests
+	./20urls
+	./21webrequests
+	./22bitmorejson
+	./23mymodule
+	./24buildapi
+)
